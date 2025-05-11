@@ -1,0 +1,403 @@
+Prodavnica,Ime,Brend,Procesor,RAM_Memorija,Kapacitet,Cena,Klub/Smart/Happy cena
+Anhoch,"Notebook HP 15 i5-1334U 16GB/512GB/15.6"" FHD IPS/Iris XE/Type-C/DOS/Moonlight blue",Hp,I5 1334U,16 GB,512 GB SSD,"25.980,00 ???.",
+Anhoch,"Notebook HP Pavilion 15 Ryzen7 7730U 16GB/512GB SSD/15.6"" FullHD/DOS/Fog Blue",Hp,RYZEN7 7730U,16 GB,512 GB SSD,"27.980,00 ???.","26.980,00 ???."
+Anhoch,"Notebook Lenovo IdeaPad Slim 3 Ryzen3 7320U/8GB/256GB SSD/15.6"" FHD/DOS",Lenovo,RYZEN3 7320U,8 GB,256 GB SSD,"16.980,00 ???.",
+Anhoch,"Notebook Lenovo IdeaPad 1 Ryzen5 5500U 8GB/512GB SSD/15.6"" FHD/ DOS",Lenovo,RYZEN5 5500U,8 GB,512 GB SSD,"18.980,00 ???.","17.980,00 ???."
+Anhoch,"Notebook Lenovo IdeaPad Slim 3 Core 5 120U/16GB/512GB SSD/15.6"" FHD AG 250nits/Arc.Grey",Lenovo,CORE 5,16 GB,512 GB SSD,"30.980,00 ???.",
+Anhoch,"Notebook Lenovo IP3 i7-1255U 16GB/512GB/15.6"" FullHD/DOS/ArcticGray",Lenovo,I7 1255U,16 GB,512 GB SSD,"28.980,00 ???.",
+Anhoch,"Notebook Lenovo LOQ Gaming i5-12450HX/16GB/512GB/RTX4050 6GB/15.6"" FHD IPS 144Hz/DOS",Lenovo,I5 12450HX,16 GB,512 GB SSD,"47.980,00 ???.","46.980,00 ???."
+Anhoch,"Notebook HP 15 i5-1334U 12GB/512GB/15.6"" FHD IPS/Iris XE/Type-C/DOS/Warm Gold",Hp,I5 1334U,12 GB,512 GB SSD,"25.480,00 ???.","24.480,00 ???."
+Anhoch,"Notebook Lenovo IdeaPad Slim 3 Ryzen7 5825U 16GB/512GB/15.6"" FHD/Arctic Grey",Lenovo,RYZEN7 5825U,16 GB,512 GB SSD,"24.980,00 ???.",
+Anhoch,"Notebook HP Pavilion 15 i5-1335U 8GB/512GB SSD/15.6"" FullHD IPS/Silver/DOS",Hp,I5 1335U,8 GB,512 GB SSD,"28.980,00 ???.",
+Anhoch,"Notebook Lenovo IdeaPad Slim 3 i5-13420H 16GB/512GB SSD/15.3"" WUXGA IPS/No OS",Lenovo,I5 13420H,16 GB,512 GB SSD,"26.980,00 ???.",
+Anhoch,"Notebook Lenovo IdeaPad Slim 3 Ryzen7 7730U 16GB/512GB/16"" WUXGA IPS/No OS",Lenovo,RYZEN7 7730U,16 GB,512 GB SSD,"29.980,00 ???.",
+Anhoch,"Notebook HP 15s i3-1215U 8GB/512GB/15.6"" FHD AG/Intel UHD/GigaLAN/Type-C/DOS/Grey",Hp,I3 1215U,8 GB,512 GB SSD,"17.980,00 ???.",
+Anhoch,"Notebook HP 15 Ryzen3 7320U/8GB/256GB/15.6"" FullHD IPS/DOS/Grey",Hp,RYZEN3 7320U,8 GB,256 GB SSD,"16.980,00 ???.",
+Anhoch,"Notebook HP 15 i3-1315U 12GB/512GB/15.6"" FHD IPS/Intel UHD/Type-C/DOS/Silver",Hp,I3 1315U,12 GB,512 GB SSD,"20.980,00 ???.","19.980,00 ???."
+Anhoch,"Notebook Acer Aspire 5 A515-58P-77RL i7-1355U/16GB/512GB/15.6"" FHD IPS/GigaLAN/Steel Gray/Linux",Acer,I7 1355U,16 GB,512 GB SSD,"31.980,00 ???.","29.480,00 ???."
+Anhoch,"Notebook Lenovo LOQ Gaming Ryzen5 8645HS/16GB/512GB/RTX4050 6GB/15.6"" FullHD 144Hz/Backlit Kb/DOS",Lenovo,RYZEN5 8645HS,16 GB,512 GB SSD,"54.980,00 ???.",
+Anhoch,"Notebook Dell Latitude 5540 i5-1335U 8GB/512GB SSD/15.6"" FHD/FRP/BacklitKB/Ubu",Dell,I5 1335U,8 GB,512 GB SSD,"51.980,00 ???.","47.980,00 ???."
+Anhoch,"Notebook HP 14 i5-1335U 12GB/512GB SSD/14"" FHD IPS AG 300nits/Diamond White",Hp,I5 1335U,12 GB,512 GB SSD,"25.480,00 ???.","24.480,00 ???."
+Anhoch,"Notebook Lenovo IdeaPad Slim 3 i3-1305U 8GB/256GB SSD/15.6"" FullHD/DOS/UltraSlim/Gray",Lenovo,I3 1305U,8 GB,256 GB SSD,"19.480,00 ???.",
+Anhoch,"Notebook HP 250 G10 i5-1335U 8GB/512GB/15.6"" FullHD AG/HDMI/USB-C/DOS",Hp,I5 1335U,8 GB,512 GB SSD,"22.980,00 ???.",
+Anhoch,"Notebook Lenovo IdeaPad 1 Ryzen5 7520U/8GB/256GB SSD/15.6"" FHD/DOS",Lenovo,RYZEN5 7520U,8 GB,256 GB SSD,"18.980,00 ???.","17.980,00 ???."
+Anhoch,"Notebook Lenovo IdeaPad Slim 3 i5-12450H 16GB/512GB SSD/15.6"" FHD/DOS/UltraSlim/Gray",Lenovo,I5 12450H,16 GB,512 GB SSD,"24.480,00 ???.",
+Anhoch,"Notebook Lenovo ThinkBook 16 G7 Ultra 5 125U/32GB/1TB SSD/16"" WUXGA IPS/Backlit Kb/DOS",Lenovo,ULTRA 5 125U,32 GB,1 TB SSD,"51.980,00 ???.","47.980,00 ???."
+Anhoch,"Notebook Lenovo IdeaPad Slim 3 Ryzen7 7730U/16GB/512GB SSD/15.6"" FHD AG 250nits/ArcticGrey",Lenovo,RYZEN7 7730U,16 GB,512 GB SSD,"26.980,00 ???.",
+Anhoch,"Notebook Acer EX215-23-R3KW Ryzen5 7520U 8GB/512GB SSD/15.6"" FullHD/Cam/RJ45/Linux",Acer,RYZEN5 7520U,8 GB,512 GB SSD,"19.880,00 ???.","18.480,00 ???."
+Anhoch,"Notebook Acer Nitro 5 Intel Core 5 210H/16GB/512GB/RTX 3050 6GB/15.6"" FHD IPS 165Hz Slim/Thunderbolt",Acer,CORE 5,16 GB,512 GB SSD,"52.980,00 ???.",
+Anhoch,"Notebook Acer Nitro 5 Intel Core 5 210H/16GB/512GB/RTX 4050 6GB/15.6"" FHD IPS 165Hz Slim/Thunderbolt",Acer,CORE 5,16 GB,512 GB SSD,"57.980,00 ???.",
+Anhoch,"Notebook Acer Nitro 5 Intel Core 7 240H/16GB/1TB/RTX 4050 6GB/15.6"" FHD IPS 165Hz Slim/Thunderbolt",Acer,CORE 7,16 GB,1 TB SSD,"65.980,00 ???.",
+Anhoch,"Notebook Dell Vostro 3530 i7-1355U 16GB/512GB/Intel Iris XE/15.6"" FHD 120Hz/BacklitKB/4Cell/Ubuntu",Dell,I7 1355U,16 GB,512 GB SSD,"36.980,00 ???.",
+Anhoch,"Notebook Lenovo LOQ Gaming Ryzen5 7235HS/24GB/512GB/RTX3050 6GB/15.6"" FHD 144Hz/Backlit Kb/DOS/Grey",Lenovo,RYZEN5 7235HS,24 GB,512 GB SSD,"43.980,00 ???.",
+Anhoch,"Notebook Lenovo LOQ Gaming i5-12450HX/16GB/512GB/RTX3050 6GB/15.6"" FHD IPS 144Hz/DOS",Lenovo,I5 12450HX,16 GB,512 GB SSD,"43.480,00 ???.",
+Anhoch,"Notebook Acer Nitro 5 i9-12900H/16GB/512GB SSD/RTX4060 8GB/15.6"" FHD 165Hz/RGB Kb/DOS",Acer,I9 12900H,16 GB,512 GB SSD,"79.980,00 ???.","73.480,00 ???."
+Anhoch,"Notebook Dell Inspiron 3525 Ryzen7 5825U/16GB/512GB SSD/Vega8/15.6"" FHD 120Hz/Ubu",Dell,RYZEN7 5825U,16 GB,512 GB SSD,"28.980,00 ???.","27.980,00 ???."
+Anhoch,"Notebook Dell Vostro 3530 i3-1305U/8GB/256GB/Intel Iris XE/15.6"" FHD 120Hz/BacklitKB/3Cell/Ubuntu",Dell,I3 1305U,8 GB,256 GB SSD,"20.980,00 ???.","19.980,00 ???."
+Anhoch,"Notebook Dell Vostro 3530 i5-1334U 16GB/512GB/IntelUHD/15.6""FHD120Hz/BLKB/3Cell",Dell,I5 1334U,16 GB,512 GB SSD,"25.980,00 ???.",
+Anhoch,"Notebook Lenovo IdeaPad Slim 3 Ryzen3 7320U/8GB/512GB SSD/15.6"" FHD/DOS",Lenovo,RYZEN3 7320U,8 GB,512 GB SSD,"17.980,00 ???.",
+Anhoch,"Notebook Dell Inspiron 3535 Ryzen5 7520U 8GB/512GB/Radeon 610M/15.6"" FHD120Hz/BacklitKB/3Cell/Linux",Dell,RYZEN5 7520U,8 GB,512 GB SSD,"21.480,00 ???.",
+Anhoch,"Notebook Dell Inspiron 3535 Ryzen5 7530U 16GB/512GB/Radeon 610M/15.6"" FHD120Hz/BacklitKB/3Cell/Linux",Dell,RYZEN5 7530U,16 GB,512 GB SSD,"25.480,00 ???.",
+Anhoch,"Notebook Dell Inspiron 3535 Ryzen7 7730U 16GB/1TB/Radeon 610M15.6"" FHD120Hz/BacklitKB/3Cell/Linux",Dell,RYZEN7 7730U,16 GB,1 TB SSD,"30.780,00 ???.",
+Anhoch,"Notebook Acer Nitro Gaming ANV15-51 i5-13420H/16GB DDR5/512GB/RTX2050/15.6"" IPS 165Hz",Acer,I5 13420H,16 GB,512 GB SSD,"37.480,00 ???.","35.980,00 ???."
+Anhoch,"Notebook Acer Extensa EX215-55 i5-1235U/16GB/512GB/15.6"" FHD/IrisXe/GigaLAN",Acer,I5 1235U,16 GB,512 GB SSD,"22.980,00 ???.",
+Anhoch,"Notebook Dell Vostro 3520 i7-1255U 8GB/512GB/Intel Iris XE/15.6"" FHD 120Hz/BacklitKB/4Cell/Ubuntu",Dell,I7 1255U,8 GB,512 GB SSD,"32.980,00 ???.",
+Anhoch,"Notebook Lenovo LOQ Gaming i7-13650HX/16GB/1TB/RTX 4060 8GB/15.6"" FullHD 144Hz/Backlit Kb/DOS/Grey",Lenovo,I7 13650HX,16 GB,1 TB SSD,"67.980,00 ???.",
+Anhoch,"Notebook HP 14 Ryzen3 7320U 8GB/512GB SSD/14"" FHD IPS AG 250nits/DOS/Jet Black",Hp,RYZEN3 7320U,8 GB,512 GB SSD,"18.980,00 ???.",
+Anhoch,"Notebook HP 15 Ryzen3 7320U/8GB/512GB/15.6"" FullHD IPS/DOS/Warm Gold",Hp,RYZEN3 7320U,8 GB,512 GB SSD,"17.980,00 ???.",
+Anhoch,"Notebook HP 255 G10 Ryzen5 7530U 16GB/512GB/15.6"" FHD/BacklitKb/Silver",Hp,RYZEN5 7530U,16 GB,512 GB SSD,"24.480,00 ???.","23.480,00 ???."
+Anhoch,"Notebook Asus Zenbook 14 Q415 Ultra 5 125H/8GB/512GB SSD/14"" WUXGA OLED Touch/Backlit KB/Win11/Gray",Asus,ULTRA 5 125H,8 GB,512 GB SSD,"44.980,00 ???.","41.980,00 ???."
+Anhoch,"Notebook Lenovo ThinkBook 16 G7 Ultra 7 155H/16GB/1TB SSD/16"" WUXGA IPS/Backlit Kb/DOS",Lenovo,ULTRA 7 155H,16 GB,1 TB SSD,"54.980,00 ???.",
+Anhoch,"Notebook Lenovo ThinkBook 15 G4 Ryzen7 5825U/16GB/1TB/15.6"" FHD/Backlit KB/Dos",Lenovo,RYZEN7 5825U,16 GB,1 TB SSD,"39.980,00 ???.",
+Anhoch,"Notebook Lenovo IdeaPad Slim 3 i7-13620H 16GB/1TB SSD/15.3"" WUXGA IPS/No OS",Lenovo,I7 13620H,16 GB,1 TB SSD,"34.980,00 ???.",
+Anhoch,"Notebook Dell Vostro 5625 Ryzen5 5625U/8GB/256GB SSD/16"" FHD+/BacklitKB/Win11Pro",Dell,RYZEN5 5625U,8 GB,256 GB SSD,"36.980,00 ???.",
+Anhoch,"Notebook Lenovo ThinkPad E16 Ryzen7 7735U/16GB/512GB SSD/16"" WUXGA IPS/KB Backlit/FP/Win11Pro",Lenovo,RYZEN7 7735U,16 GB,512 GB SSD,"54.980,00 ???.",
+Anhoch,"Notebook HP 15 i5-1334U 16GB/512GB/15.6"" FHD IPS/Iris XE/Type-C/DOS/Diamond White",Hp,I5 1334U,16 GB,512 GB SSD,"25.980,00 ???.",
+Anhoch,"Notebook HP Pavilion 15 Ryzen7 7730U 16GB/512GB SSD/15.6"" FullHD/DOS",Hp,RYZEN7 7730U,16 GB,512 GB SSD,"27.980,00 ???.",
+Anhoch,"Notebook Lenovo Gaming 3 i5-12450H/16GB/512GB/RTX3060 6GB/15.6"" FHD 120Hz/Backlit Kb/DOS",Lenovo,I5 12450H,16 GB,512 GB SSD,"46.980,00 ???.","45.980,00 ???."
+Anhoch,"Notebook Dell Vostro 3520 i3-1215U/8GB/256GB/Intel Iris XE/15.6"" FHD 120Hz/BacklitKB/3Cell/Ubuntu",Dell,I3 1215U,8 GB,256 GB SSD,"17.980,00 ???.",
+Anhoch,"Notebook Lenovo IdeaPad Slim 3 i3-1305U 8GB/512GB SSD/15.6"" FullHD/DOS/UltraSlim/Abyss Blue",Lenovo,I3 1305U,8 GB,512 GB SSD,"19.980,00 ???.",
+Anhoch,"Notebook Lenovo LOQ Gaming Ryzen5 7235HS/16GB/512GB/RTX3050 6GB/15.6"" FHD 144Hz/Backlit Kb/DOS/Grey",Lenovo,RYZEN5 7235HS,16 GB,512 GB SSD,"40.980,00 ???.",
+Anhoch,"Notebook Lenovo ThinkBook 16 G7 Ryzen7 7735HS/16GB/512GB SSD/16"" WUXGA/Backlit Kb/DOS",Lenovo,RYZEN7 7735HS,16 GB,512 GB SSD,"44.980,00 ???.",
+Anhoch,"Notebook Dell Vostro 3420 i5-1135G7 8GB/512GB/Intel Iris XE/14"" FullHD/BacklitKB/3Cell/Ubuntu",Dell,I5 1135G,8 GB,512 GB SSD,"34.480,00 ???.",
+Anhoch,"Notebook Lenovo IdeaPad Slim 3 i7-13620H/16GB/512GB SSD/15.6"" FHD AG 250nits/Abyss Blue",Lenovo,I7 13620H,16 GB,512 GB SSD,"31.980,00 ???.",
+Anhoch,"Notebook Lenovo Gaming 3 i5-12450H/8GB/512GB/RTX3060 6GB/15.6"" FHD 120Hz/Backlit Kb/DOS",Lenovo,I5 12450H,8 GB,512 GB SSD,"45.980,00 ???.","43.980,00 ???."
+Anhoch,"Notebook Lenovo ThinkPad E14 Gen 6 Ultra 5 125U/16GB/512GB/14"" FHD IPS/BacklitKB/FP/DOS",Lenovo,ULTRA 5 125U,16 GB,512 GB SSD,"52.980,00 ???.",
+Anhoch,"Notebook Dell Latitude 3520 i7-1165G7 16GB/256GB SSD/15.6"" FHD/FRP/BacklitKB/Win11Pro",Dell,I7 1165G,16 GB,256 GB SSD,"46.980,00 ???.",
+Anhoch,"Notebook HP Pavilion 15 i5-1335U 16GB/512GB SSD/15.6"" FullHD IPS/White/DOS",Hp,I5 1335U,16 GB,512 GB SSD,"30.980,00 ???.",
+Anhoch,"Notebook HP Victus Gaming Ryzen7 8845HS/16GB/512GB SSD/RTX4070 8GB/16.1"" FHD IPS 144Hz/BacklitKb/W11",Hp,RYZEN7 8845HS,16 GB,512 GB SSD,"74.980,00 ???.",
+Anhoch,"Notebook HP Victus Gaming i7 13700H/16GB/512GB SSD/RTX 4060 8GB/15.6"" FHD IPS 144Hz/Backlit Kb/Blue",Hp,I7 13700H,16 GB,512 GB SSD,"72.980,00 ???.","69.980,00 ???."
+Anhoch,"Notebook Lenovo IdeaPad Slim 3 Core 7 150U/16GB/512GB SSD/15.6"" FHD IPS 300nits/Arc.Grey",Lenovo,CORE 7,16 GB,512 GB SSD,"40.980,00 ???.",
+Anhoch,"Notebook HP 15 Ryzen3 7320U/8GB/512GB/15.6"" FullHD IPS/DOS/Diamond White",Hp,RYZEN3 7320U,8 GB,512 GB SSD,"17.980,00 ???.",
+Anhoch,"Notebook Dell Vostro 3420 i7-1165G7 16GB/512GB/Intel Iris XE/14"" FullHD/BacklitKB/4Cell/DOS",Dell,I7 1165G,16 GB,512 GB SSD,"39.980,00 ???.",
+Anhoch,"Notebook HP Envy 15 x360 Ryzen7 7730U/16GB/512GB SSD/15.6"" FHD Touch OLED/Backlit Kb/Win11",Hp,RYZEN7 7730U,16 GB,512 GB SSD,"58.480,00 ???.",
+Anhoch,"Notebook Lenovo Gaming 3 i7-12650H 16GB/512GB/RTX3050 Ti 4GB/16"" FullHD AG 165Hz 350N/DOS",Lenovo,I7 12650H,16 GB,512 GB SSD,"53.980,00 ???.","51.980,00 ???."
+Anhoch,"Notebook Lenovo ThinkPad E16 G2 Ultra 5 125U/16GB/512GB/16"" WUXGA IPS/Backlit KB/FP//Dos",Lenovo,ULTRA 5 125U,16 GB,512 GB SSD,"61.980,00 ???.","57.980,00 ???."
+Anhoch,"Notebook Lenovo LOQ Gaming i5-13450HX/16GB/512GB/RTX 4050 6GB/15.6"" FullHD 144Hz/Backlit Kb/DOS/Grey",Lenovo,I5 13450HX,16 GB,512 GB SSD,"53.980,00 ???.",
+Anhoch,"Notebook HP ProBook 455 G10 Ryzen5 7530U 8GB/512GB/15.6"" FullHD IPS/HDMI/USB-C/RJ45/DOS",Hp,RYZEN5 7530U,8 GB,512 GB SSD,"28.980,00 ???.",
+Anhoch,"Notebook Acer NITRO AN515 i5-11400H 8GB/512GB SSD/RTX3050 4GB/15.6"" FUllHD IPS 144Hz/Linux/Black",Acer,I5 11400H,8 GB,512 GB SSD,"41.980,00 ???.",
+Anhoch,"Notebook Dell Vostro 3520 i3-1215U/8GB/256GB/Intel Iris XE/15.6"" FHD 120Hz/BacklitKB/4Cell/Ubuntu",Dell,I3 1215U,8 GB,256 GB SSD,"17.980,00 ???.",
+Anhoch,"Notebook Dell Vostro 3530 i7-1355U 8GB/512GB/Intel Iris XE/15.6"" FHD 120Hz/BacklitKB/4Cell/Ubuntu",Dell,I7 1355U,8 GB,512 GB SSD,"34.980,00 ???.",
+Anhoch,"Notebook Lenovo IP3 Pentium7505 4GB/256GB/15.6"" FullHD/DOS/UltraSlim/Gray",Lenovo,PENTIUM7505,4 GB,256 GB SSD,"13.480,00 ???.",
+Anhoch,"Notebook Lenovo IdeaPad 1 i3-1215U/8GB/512GB SSD/15.6"" FHD/DOS",Lenovo,I3 1215U,8 GB,512 GB SSD,"17.980,00 ???.",
+Anhoch,"Notebook Lenovo IdeaPad Slim 3 Ryzen7 7730U/16GB/512GB SSD/15.6"" FHD IPS AG 250nits/Arc.Grey",Lenovo,RYZEN7 7730U,16 GB,512 GB SSD,"27.980,00 ???.",
+Anhoch,"Notebook Gigabyte G6X 9KG Gaming i7-13650HX/16GB/1TB SSD/RTX4060 8GB/16.0"" FHD+/165Hz IPS/DOS",Gigabyte,I7 13650HX,16 GB,1 TB SSD,"64.980,00 ???.","63.980,00 ???."
+Anhoch,"Notebook HP OmniBook X Snapdragon X Plus/16GB/512GB /14"" 2.2K Touch/Backlit Kb/Win11/Silver",Hp,SNAPDRAGON X PLUS,16 GB,512 GB SSD,"46.980,00 ???.",
+Anhoch,"Notebook HP Envy 14 x360 2in1 Ultra 5 120U/8GB/512GB SSD/14"" FHD Touch/Backlit Kb/Win11/Silver",Hp,ULTRA 5 120U,8 GB,512 GB SSD,"44.980,00 ???.",
+Anhoch,"Notebook Dell Inspiron 7440 2in1 Ultra 5 120U/8GB/512GB SSD/14"" FHD Touch/Win11H/Ice Blue",Dell,ULTRA 5 120U,8 GB,512 GB SSD,"44.980,00 ???.",
+Anhoch,"Notebook HP Envy x360 2in1 Ultra 7 150U/16GB/512GB SSD/14"" FHD Touch/Backlit Kb/Win11",Hp,ULTRA 7 150U,16 GB,512 GB SSD,"54.980,00 ???.","50.980,00 ???."
+Anhoch,"Notebook HP 14 i5-1335U/16GB/512GB SSD/14"" FHD IPS AG 300nits/Silver",Hp,I5 1335U,16 GB,512 GB SSD,"25.980,00 ???.",
+Anhoch,"Notebook Acer Aspire 3 A315-59-502V i5-1235U 8GB/512GB/15.6"" FullHD IPS /LAN/Silver/DOS",Acer,I5 1235U,8 GB,512 GB SSD,"20.480,00 ???.","18.980,00 ???."
+Anhoch,"Notebook HP Victus Gaming Ryzen7 7840HS/16GB/1TB/RTX4050 6GB/16.1"" FHD IPS 144Hz/Backlit Kb/Blue/DOS",Hp,RYZEN7 7840HS,16 GB,1 TB SSD,"63.980,00 ???.","61.980,00 ???."
+Anhoch,"Notebook Lenovo ThinkBook 16 G7 Ultra 5 125U/16GB/512GB SSD/16"" WUXGA IPS/Backlit Kb/DOS",Lenovo,ULTRA 5 125U,16 GB,512 GB SSD,"44.980,00 ???.",
+Anhoch,"Notebook HP OMEN Transcend i7-13700HX/16GB/512GB/RTX4060 8GB/16.0"" WUXGA IPS 165Hz/Backlit Kb/DOS",Hp,I7 13700HX,16 GB,512 GB SSD,"92.980,00 ???.",
+Anhoch,"Notebook Lenovo ThinkBook 16 G7 Ultra 7 155H/16GB/512GB SSD/16"" WUXGA IPS/Backlit Kb/DOS",Lenovo,ULTRA 7 155H,16 GB,512 GB SSD,"51.980,00 ???.",
+Anhoch,"Notebook Acer Nitro AN515 Ryzen7 6800H 32GB/1TB SSD/RTX 3070Ti 8GB/15.6"" FullHD IPS 165Hz/Linux",Acer,RYZEN7 6800H,32 GB,1 TB SSD,"74.480,00 ???.",
+Anhoch,"Notebook Acer Swift GO 14 Ultra 7 155H/32GB DDR5/1TB/14"" 2.8K OLED 120Hz/Thunderbolt",Acer,ULTRA 7 155H,32 GB,1 TB SSD,"71.980,00 ???.",
+Anhoch,"Notebook Gigabyte A16 Gaming i7-13420H/16GB/512GB SSD/RTX 4050 6GB/16.0"" FHD+ 165Hz IPS/Type-C/DOS",Gigabyte,I7 13420H,16 GB,512 GB SSD,"52.980,00 ???.",
+Anhoch,"Notebook Acer Nitro Ryzen7 6800H/8GB/512GB SSD/RTX 3050Ti 4GB/15.6"" FHD IPS 144Hz/Bkaclit Kb/Dos",Acer,RYZEN7 6800H,8 GB,512 GB SSD,"47.980,00 ???.",
+Anhoch,"Notebook Dell Inspiron 3520 i7-1255U/16GB/512GB SSD/Intel Iris Xe/15.6"" FHD 120Hz/Ubu",Dell,I7 1255U,16 GB,512 GB SSD,"34.980,00 ???.",
+Anhoch,"Notebook Dell Vostro 5625 Ryzen5 5625U 8GB/256GB SSD/16"" FHD+/BacklitKB/Win11Pro",Dell,RYZEN5 5625U,8 GB,256 GB SSD,"36.980,00 ???.",
+Anhoch,"Notebook Acer Predator Helios NEO Gaming i9-14900HX/32GB DDR5/1TB SSD/16"" WQXGA 240Hz/RTX 4070 8GB",Acer,I9 14900HX,32 GB,1 TB SSD,"119.980,00 ???.",
+Tehnomarket,"Notebook HP 250 G9 i3-1215U 8GB/512GB/15.6"" FHD AG/Intel UHD/GigaLAN/T",Hp,I3 1215U,8 GB,512 GB SSD,"19,999 ???.","17,980 ???."
+Tehnomarket,"Notebook Lenovo IdeaPad Slim 3 Ryzen3 7320U/8GB/256GB SSD/15.6"" FHD/DO",Lenovo,RYZEN3 7320U,8 GB,256 GB SSD,"19,999 ???.","17,489 ???."
+Tehnomarket,"HP 15s i3-1215U8GB/512GB/15.6""FHDAG/IntelUHD/GigaLAN/Type-C/DOS/GREY",Hp,I3 1215U,8 GB,512 GB SSD,"21,299 ???.","18,980 ???."
+Tehnomarket,"LENOVO IP3 RYZEN3 3250U 4GB/256GB SSD/15.6"" FHD TN AG/DOS/ARCTIC GRAY",Lenovo,RYZEN3 3250U,4 GB,256 GB SSD,"21,899 ???.","14,991 ???."
+Tehnomarket,"Notebook Acer Aspire 3 A315-59-502V i5-1235U 8GB/512GB/15.6"" FullHD IP",Acer,I5 1235U,8 GB,512 GB SSD,"21,999 ???.","20,499 ???."
+Tehnomarket,"Notebook Dell Vostro 3520 i3-1215U/8GB/256GB/Intel Iris XE/15.6"" FHD 1",Dell,I3 1215U,8 GB,256 GB SSD,"22,999 ???.","17,591 ???."
+Tehnomarket,"Notebook HP 15 Ryzen3 7320U/8GB/256GB/15.6"" FullHD IPS/DOS/Grey",Hp,RYZEN3 7320U,8 GB,256 GB SSD,"23,499 ???.","17,989 ???."
+Tehnomarket,"HP 250 G9 I3-1215U 8GB/256GB/15.6"" FHD AG/IRIS XE/GIGALAN/TYPE-C/DOS/D",Hp,I3 1215U,8 GB,256 GB SSD,"24,699 ???.","16,991 ???."
+Tehnomarket,"Notebook Lenovo IdeaPad Slim 3 i3-1305U 8GB/256GB SSD/15.6"" FullHD/DOS",Lenovo,I3 1305U,8 GB,256 GB SSD,"24,999 ???.","20,991 ???."
+Tehnomarket,"Notebook Acer EX215-23-R3KW Ryzen5 7520U 8GB/512GB SSD/15.6"" FullHD/Ca",Acer,RYZEN5 7520U,8 GB,512 GB SSD,"26,999 ???.","18,991 ???."
+Tehnomarket,"Notebook Dell Inspiron 3535 Ryzen5 7530U 16GB/512GB/Radeon 610M/15.6""",Dell,RYZEN5 7530U,16 GB,512 GB SSD,"27,999 ???.","25,499 ???."
+Tehnomarket,"Notebook HP 255 G10 Ryzen5 7530U 16GB/512GB/15.6"" FHD/BacklitKb/Silver",Hp,RYZEN5 7530U,16 GB,512 GB SSD,"27,999 ???.","24,499 ???."
+Tehnomarket,"Notebook Acer Aspire A315 Ryzen5 3500U 8GB/256GB SSD/GigaLAN/15.6"" Ful",Acer,RYZEN5 3500U,8 GB,256 GB SSD,"28,499 ???.","17,991 ???."
+Tehnomarket,"Notebook HP 15 i5-1334U 16GB/512GB/15.6"" FHD IPS/Iris XE/Type-C/DOS/Si",Hp,I5 1334U,16 GB,512 GB SSD,"28,999 ???.","27,980 ???."
+Tehnomarket,"LENOVO IDEAPAD 1 RYZEN5 7520U/8GB/512GB SSD/15.6"" FHD/DOS",Lenovo,RYZEN5 7520U,8 GB,512 GB SSD,"30,699 ???.","19,991 ???."
+Tehnomarket,"Notebook Dell Inspiron 3525 Ryzen7 5825U/16GB/512GB SSD/Vega8/15.6"" FH",Dell,RYZEN7 5825U,16 GB,512 GB SSD,"30,999 ???.","28,999 ???."
+Tehnomarket,"Notebook HP 250 G10 i5-1335U 8GB/512GB/15.6"" FullHD AG/HDMI/USB-C/DOS",Hp,I5 1335U,8 GB,512 GB SSD,"32,999 ???.","25,991 ???."
+Tehnomarket,"Notebook Dell Inspiron 3535 Ryzen7 7730U 16GB/1TB/Radeon 610M15.6"" FHD",Dell,RYZEN7 7730U,16 GB,1 TB SSD,"33,999 ???.","30,799 ???."
+Tehnomarket,"Notebook Acer Aspire 5 A515-58P-77RL i7-1355U/16GB/512GB/15.6"" FHD IPS",Acer,I7 1355U,16 GB,512 GB SSD,"35,999 ???.","32,999 ???."
+Tehnomarket,"Lenovo IP3 i7-1255U 16GB/512GB/15.6"" FullHD IPS/DOS/ArcticGray",Lenovo,I7 1255U,16 GB,512 GB SSD,"40,599 ???.","32,991 ???."
+Tehnomarket,"Notebook Dell Vostro 3520 i7-1255U 16GB/512GB/Intel Iris XE/15.6"" FHD",Dell,I7 1255U,16 GB,512 GB SSD,"44,999 ???.","39,999 ???."
+Tehnomarket,DELL Vostro 3510 i5-1135G7/MX350 2GB/15.6” FHD/8GB/SSD 512GB/BACKLIT/B,Dell,I5 1135G,2 GB,512 GB SSD,"48,999 ???.","35,991 ???."
+Tehnomarket,"Lenovo Gaming 3 i5-12450H/16GB/512GB/RTX3060 6GB/15.6"" FHD 120Hz/Backl",Lenovo,I5 12450H,16 GB,512 GB SSD,"68,499 ???.","59,979 ???."
+Tehnomarket,"Lenovo Gaming 3 Ryzen7 6800H 16GB/512GB/RTX3050Ti 4GB/15.6"" FullHD AG",Lenovo,RYZEN7 6800H,16 GB,512 GB SSD,"69,539 ???.","52,991 ???."
+Tehnomarket,"LENOVO GAMING 3 I7-12650H 16GB/512GB/RTX3050 TI 4GB/16"" FULLHD AG 165H",Lenovo,I7 12650H,16 GB,512 GB SSD,"71,599 ???.","64,979 ???."
+Tehnomarket,Apple Macbook Air 13.3: SPG/M1 8C CPU/7C GPU/8GB/256GB-ZEE,Apple,M1,8 GB,256 GB SSD,"72,699 ???.","48,999 ???."
+Tehnomarket,"Lenovo Gaming 3 i7-12650H 16GB/512GB/RTX3060 6GB/15.6"" FullHD AG 120Hz",Lenovo,I7 12650H,16 GB,512 GB SSD,"74,599 ???.","60,991 ???."
+Tehnomarket,Apple MBA 13.6: SKY BLUE/M4 10C CPU/8C GPU/16GB/256GB-ZEE,Apple,M4,16 GB,256 GB SSD,"75,999 ???.",
+Tehnomarket,Apple MBA 13.6: MIDNIGHT/M4 10C CPU/8C GPU/16GB/256GB-ZEE,Apple,M4,16 GB,256 GB SSD,"75,999 ???.",
+Tehnomarket,Apple MBA 13.6: STARLIGHT/M4 10C CPU/8C GPU/16GB/256GB-ZEE,Apple,M4,16 GB,256 GB SSD,"75,999 ???.",
+Tehnomarket,Apple MBA 13.6: SILVER/M4 10C CPU/8C GPU/16GB/256GB-ZEE,Apple,M4,16 GB,256 GB SSD,"75,999 ???.",
+Tehnomarket,"Notebook MSI Cyborg 15 i7-12650H/8GB/512GB SSD/RTX 4060 8GB/15.6"" FHD",Msi,I7 12650H,8 GB,512 GB SSD,"81,999 ???.","59,991 ???."
+Gjirafa50,"?????? ASUS TUF Gaming A16 FA607NU-R5085W, 16"", AMD Ryzen 5 7535HS, 8GB RAM, 512GB SSD, NVIDIA GeForce RTX 4050, Windows 11 Home",Asus,AMD RYZEN 5 7535HS,8 GB,512 GB SSD,"64,290 MKD.","63,590 MKD."
+Gjirafa50,"?????? Asus TUF Gaming A15 FA507NVR, 15,6"", AMD Ryzen 7 7435HS, 16GB RAM, 512GB SSD, GeForce RTX 4060, ????",Asus,AMD RYZEN 7 7435HS,16 GB,512 GB SSD,"73,590 MKD.","58,990 MKD."
+Gjirafa50,"?????? ASUS V16 V3607VU, 16"", Intel Core 5 210H, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 4050",Asus,CORE 5,16 GB,512 GB SSD,"64,190 MKD.",
+Gjirafa50,"Laptop Gigabyte G6X 9KG 2024, 16"", Intel Core i7-13650HX, 165Hz, 16GB RAM, 1TB SSD, NVIDIA GeForce RTX 4060",Gigabyte,INTEL CORE I7 13650HX,16 GB,1 TB SSD,"65,390 MKD.","58,990 MKD."
+Gjirafa50,"?????? Lenovo LOQ 15IAX9E, 15,6"", Intel Core i5 i5-12450HX, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 2050",Lenovo,INTEL CORE I5,16 GB,512 GB SSD,"44,590 MKD.","43,790 MKD."
+Gjirafa50,"?????? MSI Thin A15 B7VF-460XPL, 15,6"", AMD Ryzen 7 7735HS, 16GB DDR5-SDRAM, 512GB SSD, NVIDIA GeForce RTX 4060, ????",Msi,AMD RYZEN 7 7735HS,16 GB,512 GB SSD,"64,733 MKD.","60,990 MKD."
+Gjirafa50,"Laptop Lenovo LOQ 15ARP9, 15.6"", Ryzen 5 7235HS",Lenovo,RYZEN 5 7235HS,,,"58,290 MKD.","49,990 MKD."
+Gjirafa50,"Laptop Lenovo LOQ 15ARP9, AMD Ryzen 7 7435HS, 24GB RAM, 512GB SSD, NVIDIA RTX 4060, i hirtë",Lenovo,AMD RYZEN 7 7435HS,24 GB,512 GB SSD,"95,090 MKD.","83,990 MKD."
+Gjirafa50,"?????? MSI Katana 15 B13VFK-1437XPL, 15.6"", Intel Core i7-13620H, 32GB RAM, 1TB SSD, NVIDIA GeForce RTX 4060, ????",Msi,INTEL CORE I7 13620H,32 GB,1 TB SSD,"84,590 MKD.","63,990 MKD."
+Gjirafa50,"?????? MSI Katana 17 B13VEK-1464XCZ, 17.3"", Intel Core i5-13420H, 16GB RAM, 1TB SSD, NVIDIA GeForce RTX 4050 Graphics, ???? ????",Msi,INTEL CORE I5 13420H,16 GB,1 TB SSD,"70,590 MKD.","64,590 MKD."
+Gjirafa50,"?????? HP OMEN 16-wd0004nw, 16.1"", Intel Core i7-13620H, 144Hz, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 4060",Hp,INTEL CORE I7 13620H,16 GB,512 GB SSD,"81,190 MKD.","81,090 MKD."
+Gjirafa50,"?????? Gigabyte Aorus 16X 9KG 2024, Intel Core i7-13650HX, 32GB RAM, 1TB SSD, NVIDIA GeForce RTX 4060",Gigabyte,INTEL CORE I7 13650HX,32 GB,1 TB SSD,"85,490 MKD.","82,790 MKD."
+Gjirafa50,"Laptop MSI Cyborg 15 A13VE-1613XPL, 15.6"", Intel Core i5-13420H, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 4050, i zi",Msi,INTEL CORE I5 13420H,16 GB,512 GB SSD,"62,390 MKD.","54,990 MKD."
+Gjirafa50,"Laptop Acer Nitro V 15 ANV15-41, 15.6"", AMD Ryzen 5 6600H, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 2050, i zi",Acer,AMD RYZEN 5 6600H,16 GB,512 GB SSD,"44,790 MKD.","32,990 MKD."
+Gjirafa50,"?????? Lenovo LOQ AMD, 15.6"" Full HD, 144 Hz, AMD Ryzen 7 7435HS, 16 GB RAM, 1TB SSD, NVIDIA GeForce RTX 4070",Lenovo,AMD RYZEN 7 7435HS,16 GB,1 TB SSD,"90,990 MKD.","89,990 MKD."
+Gjirafa50,"?????? Lenovo Legion Pro, 16"", Intel i5-14500HX, 32 GB RAM, 1 TB SSD, NVIDIA GeForce RTX 4060, ???? ????",Lenovo,INTEL I5 14500HX,32 GB,1 TB SSD,"115,190 MKD.",
+Gjirafa50,"?????? MSI Katana 15 B13VGK, 15,6"", FHD, Intel i7-13620H, 16GB RAM, 1TB SSD, NVIDIA RTX 4070, ???",Msi,INTEL I7 13620H,16 GB,1 TB SSD,"91,839 MKD.","86,690 MKD."
+Gjirafa50,"?????? MSI Cyborg 15 A13VE-1067XPL, 15,6"", Intel Core i7-13620H, 16GB DDR5-SDRAM, 512GB SSD, NVIDIA GeForce RTX 4050, ????",Msi,INTEL CORE I7 13620H,16 GB,512 GB SSD,"67,390 MKD.",
+Gjirafa50,"?????? ASUS NTB ROG Strix G16 16"", QHD+, Intel® Core™ i7-13650HX, 16 GB RAM, 1TB SSD, NVIDIA GeForce RTX 4060,???? ????",Asus,INTEL CORE I7 13650HX,16 GB,1 TB SSD,"101,690 MKD.",
+Gjirafa50,"?????? Lenovo LOQ 15IAX9, 15,6"", FHD, Intel i5-12450HX, 24GB RAM, SSD 512GB, RTX 4060 8GB, ???",Lenovo,INTEL I5 12450HX,24 GB,512 GB SSD,"76,790 MKD.",
+Gjirafa50,"Laptop MSI Katana A17, 17.3'', QHD, AMD Ryzen 9, NVIDIA GeForce RTX 4060, 32GB RAM, 1TB SSD, i zi",Msi,RYZEN 9,32 GB,1 TB SSD,"104,490 MKD.",
+Gjirafa50,"?????? ASUS NTB ROG Flow X16, 16'', QHD+, i9-13900H, NVIDIA GeForce RTX 4060, 32GB RAM, 1TB SSD, ???",Asus,I9 13900H,32 GB,1 TB SSD,"142,090 MKD.",
+Gjirafa50,"Laptop MSI Stealth A16 AI+ A3XVFG-070CZ, 16"", QHD+, AMD Ryzen AI 9 HX 370, NVIDIA GeForce RTX 4060, 32GB RAM, 1TB SSD, i zi",Msi,RYZEN AI 9 HX 370,32 GB,1 TB SSD,"158,990 MKD.","148,490 MKD."
+Gjirafa50,"Laptop Lenovo LOQ 15IAX9, 15.6"", FHD, Intel Core i5-12450HX, NVIDIA GeForce 3050, 24GB RAM, 512GB SSD, i hirtë",Lenovo,INTEL CORE I5 12450HX,24 GB,512 GB SSD,"55,190 MKD.",
+Gjirafa50,No title,No,Unknown,,,No price,
+Gjirafa50,"?????? Lenovo Legion 7, 16"", 3K, Intel Core i9-14900HX, 32GB RAM, 1TB SSD, NVIDIA GeForce RTX 4070 8 GB, ???? ????",Lenovo,INTEL CORE I9 14900HX,32 GB,1 TB SSD,"160,090 MKD.",
+Gjirafa50,"?????? Asus ASUS ProArt PX13 OLED, Ryzen AI 9 HX 370, 32GB LPDDR5X , 1TB SSD, W11Pro, RTX 4060, ???? ????",Asus,RYZEN AI 9 HX 370,32 GB,1 TB SSD,"162,790 MKD.","139,990 MKD."
+Gjirafa50,"?????? MSI Katana 17, 17"", FHD, Intel i7-13620H, NVIDIA GeForce RTX 4050, 16GB RAM, 1TB SSD, ???",Msi,INTEL I7 13620H,16 GB,1 TB SSD,"79,890 MKD.","74,990 MKD."
+Gjirafa50,"?????? Lenovo LOQ 15ARP9, 15.6"", AMD Ryzen 7 7435HS, 16 GB RAM, 512 GB SSD, NVIDIA GeForce RTX 4060, ???? ????",Lenovo,AMD RYZEN 7 7435HS,16 GB,512 GB SSD,"70,939 MKD.","56,990 MKD."
+Gjirafa50,"?????? Gigabyte Aorus 15X ASF, Intel Core i7-13650HX, 16GB RAM, 1TB SSD, NVIDIA GeForce RTX 4070,????? ???? ????",Gigabyte,INTEL CORE I7 13650HX,16 GB,1 TB SSD,"94,290 MKD.","78,990 MKD."
+Gjirafa50,"Laptop Lenovo LOQ 15ARP9, 15.6"", AMD Ryzen 7 7435HS, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 4070, i hirtë",Lenovo,AMD RYZEN 7 7435HS,16 GB,512 GB SSD,"96,789 MKD.","69,990 MKD."
+Gjirafa50,"?????? Lenovo IdeaPad Gaming 15.6"", Full HD AMD Ryzen 5 5500H, 16 GB RAM, 512 GB SSD, NVIDIA GeForce RTX 2050, ???? ????",Lenovo,AMD RYZEN 5 5500H,16 GB,512 GB SSD,"45,990 MKD.","37,990 MKD."
+Gjirafa50,"Laptop Gigabyte Aorus 16X 9KG (2024), 16"", Intel Core i7-13650HX, 16GB RAM, 1TB SSD, NVIDIA GeForce RTX 4060, i hirtë i errët",Gigabyte,INTEL CORE I7 13650HX,16 GB,1 TB SSD,"89,190 MKD.",
+Gjirafa50,"?????? HP ZBook Firefly, 14"", Intel i7-1365U, 16 GB RAM, 1 TB SSD, NVIDIA RTX A500, i argjendtë",Hp,INTEL I7 1365U,16 GB,1 TB SSD,"117,590 MKD.","113,990 MKD."
+Gjirafa50,"?????? HP ZBook Firefly, 14"", Intel i7-1365U, 16 GB RAM, 1 TB SSD, NVIDIA RTX A500, i argjendtë",Hp,INTEL I7 1365U,16 GB,1 TB SSD,"104,049 MKD.","101,990 MKD."
+Gjirafa50,"?????? HP ZBook Firefly, 14"", Intel i7-1355U, 16 GB RAM, 1 TB SSD, NVIDIA RTX A500, i argjendtë",Hp,INTEL I7 1355U,16 GB,1 TB SSD,"100,529 MKD.","95,590 MKD."
+Gjirafa50,"?????? MSI Thin 15 B12VE-1817XPL, 15,6"", Intel Core i5-12450H, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 4050, ????",Msi,INTEL CORE I5 12450H,16 GB,512 GB SSD,"54,390 MKD.",
+Gjirafa50,"?????? MSI Thin 15 B12VE-1817XPL,15.6"", Intel i5-12450H, 16 GB RAM, 512 GB SSD, RTX 4050",Msi,INTEL I5 12450H,16 GB,512 GB SSD,"60,590 MKD.","44,990 MKD."
+Gjirafa50,"?????? Razer Blade 17, 17.3"", Intel  Core i7-12800HX, 16GB RAM, 1TB SSD, Nvidia GeForce RTX 3060",Razer,INTEL CORE I7 12800HX,16 GB,1 TB SSD,"232,390 MKD.","209,990 MKD."
+Gjirafa50,"?????? Dream Machines RG3050-15PL52, 15.6"", Intel Core i5-13500H, 32GB RAM, 1TB SSD, Nvidia GeForce RTX 3050",Dream,INTEL CORE I5 13500H,32 GB,1 TB SSD,"64,733 MKD.","52,990 MKD."
+Gjirafa50,"?????? Dream Machines RG3050-15PL50, 15.6"", Intel Core i5-13500H, 16GB RAM, 500GB SSD, Nvidia GeForce RTX 3050",Dream,INTEL CORE I5 13500H,16 GB,500 GB SSD,"61,168 MKD.","48,990 MKD."
+Gjirafa50,"?????? HP ZBook Firefly G10, 14"", Intel Core i7-1365U, 16GB RAM, 1TB SSD, Nvidia Quadro RTX A500",Hp,INTEL CORE I7 1365U,16 GB,1 TB SSD,"112,299 MKD.","105,990 MKD."
+Gjirafa50,"?????? Microsoft Surface ?????? Studio 2, 14.4"", Intel Core i7, 32GB RAM, 1TB SSD, Nvidia GeForce RTX 4050",Microsoft,INTEL CORE I7,32 GB,1 TB SSD,"229,729 MKD.","199,990 MKD."
+Gjirafa50,"?????? MSI Katana 17 B12UCRK-1054PL, 17.3"", Intel Core 5-12450H, 16GB RAM, 512GB SSD, Nvidia RTX 3050",Msi,CORE 5,16 GB,512 GB SSD,"66,390 MKD.","50,990 MKD."
+Gjirafa50,"?????? XPS 14 9440, 14.5"", Intel Core Ultra 7 155H, 16GB RAM, 1TB SSD, Nvidia GeForce RTX 4050",Xps,INTEL CORE ULTRA 7 155H,16 GB,1 TB SSD,"204,490 MKD.","179,990 MKD."
+Gjirafa50,"?????? Dell XPS 16, 16.3"", Intel Core Ultra 7 155H, 32GB RAM, 1TB SSD, Nvidia GeForce RTX 4060",Dell,INTEL CORE ULTRA 7 155H,32 GB,1 TB SSD,"235,990 MKD.","209,990 MKD."
+Gjirafa50,"?????? LOQ 15IAX9, 15.6"", Intel Core 5-12450HX, 16GB RAM, 512GB SSD, Nvidia RTX 3050",Lenovo,CORE 5,16 GB,512 GB SSD,"65,653 MKD.","52,990 MKD."
+Gjirafa50,"?????? LOQ 15IAX9, 15.6"", Intel Core 5-12450HX, 32GB RAM, 1TB SSD, Nvidia RTX 3050",Lenovo,CORE 5,32 GB,1 TB SSD,"70,609 MKD.","58,990 MKD."
+Gjirafa50,"?????? Lenovo LOQ 15IAX9, 15.6"", Intel Core i5-12450HX, 16GB RAM, 1TB SSD, Nvidia RTX 3050",Lenovo,INTEL CORE I5 12450HX,16 GB,1 TB SSD,"59,443 MKD.","48,990 MKD."
+Gjirafa50,No title,No,Unknown,,,No price,
+Gjirafa50,"?????? LOQ 15IAX9, 15.6"", Intel Core 5-12450HX, 32GB RAM, 512GB SSD, Nvidia RTX 3050",Lenovo,CORE 5,32 GB,512 GB SSD,"60,133 MKD.","48,990 MKD."
+Gjirafa50,"?????? LOQ 15IAX9, 15.6"", Intel Core 5-12450HX, 16GB RAM, 1TB SSD, Nvidia RTX 4050",Lenovo,CORE 5,16 GB,1 TB SSD,"73,359 MKD.","66,690 MKD."
+Gjirafa50,"?????? LOQ 15IAX9, 15"", Intel Core 5-12450HX, 32GB RAM, 1TB SSD, Nvidia RTX 4050",Lenovo,CORE 5,32 GB,1 TB SSD,"77,209 MKD.","72,390 MKD."
+Gjirafa50,"?????? LOQ 15IAX9, 15"", Intel Core 5-12450HX, 32GB RAM, 512GB SSD, Nvidia RTX 4050",Lenovo,CORE 5,32 GB,512 GB SSD,"73,359 MKD.","66,690 MKD."
+Gjirafa50,"?????? MSI Thin 15, 15"", i5-12450H, 16GB RAM, 512GB SSD, Nvidia RTX 3050",Msi,I5 12450H,16 GB,512 GB SSD,"54,290 MKD.","42,990 MKD."
+Gjirafa50,"?????? ThinkBook 16p G5, 16"", i9-14900HX, 32GB RAM, 1TB SSD, Nvidia RTX 4060",Lenovo,I9 14900HX,32 GB,1 TB SSD,"189,490 MKD.","188,390 MKD."
+Gjirafa50,"?????? LOQ 15IAX9, 15.6"", i5-12450HX, 16GB RAM, 512GB SSD, Nvidia RTX 3050",Lenovo,I5 12450HX,16 GB,512 GB SSD,"68,068 MKD.","41,990 MKD."
+Gjirafa50,"?????? LOQ 15IAX9, 15.6"", i5-12450HX, 16GB RAM, 512GB SSD, Nvidia RTX 3050",Lenovo,I5 12450HX,16 GB,512 GB SSD,"58,523 MKD.","46,990 MKD."
+Gjirafa50,"?????? LOQ 15IAX9, 15"", i5-12450HX, 16GB RAM, 1TB SSD, Nvidia RTX 4060",Lenovo,I5 12450HX,16 GB,1 TB SSD,"78,859 MKD.","65,990 MKD."
+Gjirafa50,"?????? LOQ 15IAX9, 15.6"", i5-12450HX, 16GB RAM, 512GB SSD, Nvidia RTX 4050",Lenovo,I5 12450HX,16 GB,512 GB SSD,"64,590 MKD.","51,990 MKD."
+Gjirafa50,"?????? LOQ 15IAX9, 15.6"", i5-12450HX, 16GB RAM, 1TB SSD, Nvidia RTX 4050",Lenovo,I5 12450HX,16 GB,1 TB SSD,"63,353 MKD.","49,990 MKD."
+Gjirafa50,"?????? Lenovo Yoga Pro 9 16IMH9, 16"", Intel Core Ultra 7 155H, 16GB RAM, 512GB SSD, NVIDIA RTX 4060, gri",Lenovo,INTEL CORE ULTRA 7 155H,16 GB,512 GB SSD,"116,369 MKD.","99,990 MKD."
+Gjirafa50,"?????? HP ZBook Firefly G11, 14"", Intel Core Ultra 5 135H, 16GB RAM, 1TB SSD, Nvidia RTX A500",Hp,INTEL CORE ULTRA 5 135H,16 GB,1 TB SSD,"122,749 MKD.","99,990 MKD."
+Gjirafa50,"?????? Acer Nitro V 15, 15.6"", i5-13420H, 16GB RAM, 1TB SSD, Nvidia RTX 4050",Acer,I5 13420H,16 GB,1 TB SSD,"72,039 MKD.","57,990 MKD."
+Gjirafa50,"?????? DELL Precision 3490, 14"", Intel Core Ultra 7 155H, 32GB RAM, 1TB SSD, Nvidia RTX 500 Ada",Dell,INTEL CORE ULTRA 7 155H,32 GB,1 TB SSD,"139,790 MKD.","119,990 MKD."
+Gjirafa50,"?????? Acer Nitro V 15 ANV15-41, 15.6"", Ryzen 7-7735HS, 32GB RAM, 1TB SSD, Nvidia RTX 4060",Acer,RYZEN 7 7735HS,32 GB,1 TB SSD,"91,890 MKD.","78,990 MKD."
+Gjirafa50,"?????? DELL Precision 5690, 16"", CPU Core Ultra u7-165H, 32GB RAM, 1TB SSD, Nvidia RTX 1000 Ada",Dell,CORE ULTRA U7 165H,32 GB,1 TB SSD,"237,990 MKD.","209,990 MKD."
+Gjirafa50,"?????? MSI Katana 17 B12UCRK-1054PL, 17.3"", Intel Core i5-12450H, 16GB RAM, 1TB SSD, NVIDIA GeForce RTX 3050",Msi,INTEL CORE I5 12450H,16 GB,1 TB SSD,"70,490 MKD.","67,190 MKD."
+Gjirafa50,"?????? HP Victus 15-fa1151nw, 15.6"", Intel® Core™ i5-13420H, 16GB RAM, 1TB SSD, NVIDIA GeForce RTX 4050",Hp,INTEL CORE I5 13420H,16 GB,1 TB SSD,"68,183 MKD.","54,990 MKD."
+Gjirafa50,"?????? TUF Gaming A15, 15.6"", AMD Ryzen 5 7535HS, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 3050",Tuf,AMD RYZEN 5 7535HS,16 GB,512 GB SSD,"52,990 MKD.","52,690 MKD."
+Gjirafa50,"?????? HP ZBook Power G11, 15.6"", Intel Core i7-155H, 32GB RAM, 1TB SSD, NVIDIA GeForce RTX A2000",Hp,INTEL CORE I7 155H,32 GB,1 TB SSD,"181,599 MKD.","173,390 MKD."
+Gjirafa50,"?????? HP ZBook Firefly 16 G11, 16"", Intel Core Ultra 5 135H, 32GB RAM, 1TB SSD, NVIDIA GeForce RTX A500",Hp,INTEL CORE ULTRA 5 135H,32 GB,1 TB SSD,"133,199 MKD.","126,990 MKD."
+Gjirafa50,"?????? Dell Inspiron 5630, 16.0"", Intel Core i7-1360P, 16GB RAM, 1TB SSD, Nvidia GeForce RTX 2050",Dell,INTEL CORE I7 1360P,16 GB,1 TB SSD,"90,890 MKD.","75,990 MKD."
+Gjirafa50,"?????? ASUS TUF Gaming A15, 15.6"", AMD Ryzen 5 7535HS, 32GB RAM, 512GB SSD, NVIDIA GeForce RTX 3050",Asus,AMD RYZEN 5 7535HS,32 GB,512 GB SSD,"56,890 MKD.","55,790 MKD."
+Gjirafa50,No title,No,Unknown,,,No price,
+Gjirafa50,"?????? ASUS TUF Gaming A15, 15.6"", AMD Ryzen 5 7535HS, 32GB RAM, 512GB SSD, NVIDIA GeForce RTX 3050, Windows 11 Pro",Asus,AMD RYZEN 5 7535HS,32 GB,512 GB SSD,"70,190 MKD.","61,990 MKD."
+Gjirafa50,"?????? ASUS TUF Gaming A15, 15.6"", AMD Ryzen 5 7535HS, 32GB RAM, 512GB SSD, NVIDIA GeForce RTX 3050, Windows 11 Home",Asus,AMD RYZEN 5 7535HS,32 GB,512 GB SSD,"67,990 MKD.","58,990 MKD."
+Gjirafa50,"?????? ASUS TUF Gaming A15, 15.6"", AMD Ryzen 5 7535HS, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 3050",Asus,AMD RYZEN 5 7535HS,16 GB,512 GB SSD,"64,190 MKD.","56,990 MKD."
+Gjirafa50,"?????? MSI Katana 17 B12VEK-1034XPL, 17"", Intel Core i5, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 4050",Msi,INTEL CORE I5,16 GB,512 GB SSD,"78,990 MKD.","75,390 MKD."
+Gjirafa50,"?????? MSI Katana 17 B12VEK-1034XPL, 17"", Intel Core i5, 16GB RAM, 1TB SSD, NVIDIA GeForce RTX 4050",Msi,INTEL CORE I5,16 GB,1 TB SSD,"81,090 MKD.","76,090 MKD."
+Gjirafa50,"?????? MSI Katana 17 B12VEK-1034XPL, 17"", Intel Core i5, 32GB RAM, 1TB SSD, NVIDIA GeForce RTX 4050",Msi,INTEL CORE I5,32 GB,1 TB SSD,"86,090 MKD.","81,990 MKD."
+Gjirafa50,"?????? MSI Katana 17 B12VEK-1034XPL, 17"", Intel Core i5, 32GB RAM, 512GB SSD, NVIDIA GeForce RTX 4050",Msi,INTEL CORE I5,32 GB,512 GB SSD,"83,690 MKD.","76,190 MKD."
+Gjirafa50,"?????? MSI Katana 17 B12VEK-1034XPL, 17"", Intel Core i5, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 4050",Msi,INTEL CORE I5,16 GB,512 GB SSD,"76,190 MKD.","72,690 MKD."
+Gjirafa50,"?????? Lenovo LOQ 15IAX9, 15"", Intel Core i5-12450HX, 32GB RAM, 1TB SSD, NVIDIA GeForce RTX 4050",Lenovo,INTEL CORE I5 12450HX,32 GB,1 TB SSD,"87,329 MKD.","68,990 MKD."
+Gjirafa50,"?????? Lenovo LOQ 15IAX9, 15"", Intel Core i5-12450HX, 32GB RAM, 512GB SSD, NVIDIA GeForce RTX 4050",Lenovo,INTEL CORE I5 12450HX,32 GB,512 GB SSD,"73,909 MKD.","67,190 MKD."
+Gjirafa50,"?????? Lenovo LOQ 15ARP9, 15.6"", AMD Ryzen 5 7235HS, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 3050, Windows 11 Home",Lenovo,AMD RYZEN 5 7235HS,16 GB,512 GB SSD,"62,088 MKD.","48,990 MKD."
+Gjirafa50,"?????? Lenovo LOQ 15ARP9, 15.6"", AMD Ryzen 5 7235HS, 16GB RAM, 1TB SSD, NVIDIA GeForce RTX 3050, Windows 11 Home",Lenovo,AMD RYZEN 5 7235HS,16 GB,1 TB SSD,"67,378 MKD.","58,590 MKD."
+Gjirafa50,"?????? Lenovo LOQ 15ARP9, 15.6"", AMD Ryzen 5 7235HS, 32GB RAM, 1TB SSD, NVIDIA GeForce RTX 3050, Windows 11 Home",Lenovo,AMD RYZEN 5 7235HS,32 GB,1 TB SSD,"67,969 MKD.","61,790 MKD."
+Gjirafa50,"?????? Lenovo LOQ 15ARP9, 15.6"", AMD Ryzen 5 7235HS, 16GB RAM, 512GB + 1TB SSD, NVIDIA GeForce RTX 3050",Lenovo,AMD RYZEN 5 7235HS,16 GB,1 TB SSD / 512 GB SSD,"69,218 MKD.","60,190 MKD."
+Gjirafa50,"?????? Lenovo LOQ 15ARP9, 15.6"", AMD Ryzen 5 7235HS, 32GB RAM, 512GB SSD, NVIDIA GeForce RTX 3050",Lenovo,AMD RYZEN 5 7235HS,32 GB,512 GB SSD,"67,378 MKD.","58,590 MKD."
+Gjirafa50,"?????? Lenovo LOQ 15ARP9, 15.6"", AMD Ryzen 5 7235HS, 16GB RAM, 1TB SSD, NVIDIA GeForce RTX 3050",Lenovo,AMD RYZEN 5 7235HS,16 GB,1 TB SSD,"58,063 MKD.","50,490 MKD."
+Gjirafa50,"?????? Lenovo LOQ 15ARP9, 15"", AMD Ryzen 5 7235HS, 32GB RAM, 512GB + 1TB SSD, NVIDIA GeForce RTX 3050",Lenovo,AMD RYZEN 5 7235HS,32 GB,1 TB SSD / 512 GB SSD,"63,583 MKD.","46,990 MKD."
+Gjirafa50,"?????? Lenovo LOQ 15ARP9, 15"", AMD Ryzen 5 7235HS, 32GB RAM, 512GB SSD, NVIDIA GeForce RTX 3050",Lenovo,AMD RYZEN 5 7235HS,32 GB,512 GB SSD,"58,063 MKD.","43,990 MKD."
+Gjirafa50,"?????? Lenovo Legion 5 16IRX9, 16"", Intel Core i5-13450HX, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 4060",Lenovo,INTEL CORE I5 13450HX,16 GB,512 GB SSD,"97,559 MKD.","88,690 MKD."
+Gjirafa50,"?????? Lenovo Legion 5 16IRX9, 16"", Intel Core i5-13450HX, 16GB RAM, 1TB SSD, NVIDIA GeForce RTX 4060, Windows 11 Home",Lenovo,INTEL CORE I5 13450HX,16 GB,1 TB SSD,"101,409 MKD.","92,190 MKD."
+Gjirafa50,"?????? Lenovo Legion 5 16IRX9, 16"", Intel Core i5-13450HX, 32GB RAM, 1TB SSD, NVIDIA GeForce RTX 4060, Windows 11 Home",Lenovo,INTEL CORE I5 13450HX,32 GB,1 TB SSD,"104,489 MKD.","94,990 MKD."
+Gjirafa50,"?????? Lenovo Legion 5 16IRX9, 16"", Intel Core i5-13450HX, 16GB RAM, 512GB + 1TB SSD, NVIDIA GeForce RTX 4060, Windows 11 Home",Lenovo,INTEL CORE I5 13450HX,16 GB,1 TB SSD / 512 GB SSD,"102,069 MKD.","92,790 MKD."
+Gjirafa50,"?????? Lenovo Legion 5 16IRX9, 16"", Intel Core i5-13450HX, 32GB RAM, 512GB + 1TB SSD, NVIDIA GeForce RTX 4060, Windows 11 Home",Lenovo,INTEL CORE I5 13450HX,32 GB,1 TB SSD / 512 GB SSD,"105,589 MKD.","95,990 MKD."
+Gjirafa50,"?????? Lenovo Legion Slim 5 16AHP9, 16"", AMD Ryzen 7 8845HS, 32GB RAM, 1TB SSD, NVIDIA GeForce RTX 4060",Hp,AMD RYZEN 7 8845HS,32 GB,1 TB SSD,"112,890 MKD.","93,990 MKD."
+Gjirafa50,No title,No,Unknown,,,No price,
+Gjirafa50,"?????? Lenovo Legion Slim 5 16AHP9, 16"", AMD Ryzen 7 8845HS, 64GB RAM, 1TB SSD, NVIDIA GeForce RTX 4060, Windows 11 Home",Hp,AMD RYZEN 7 8845HS,64 GB,1 TB SSD,"117,799 MKD.","97,990 MKD."
+Gjirafa50,"?????? Lenovo Legion Slim 5 16AHP9, 16"", AMD Ryzen 7 8845HS, 64GB RAM, 1TB SSD, NVIDIA GeForce RTX 4060",Hp,AMD RYZEN 7 8845HS,64 GB,1 TB SSD,"108,790 MKD.","89,990 MKD."
+Gjirafa50,"?????? Lenovo Legion Slim 5 16AHP9, 16"", AMD Ryzen 7 8845HS, 64GB RAM, 1TB + 1TB SSD, NVIDIA GeForce RTX 4070",Hp,AMD RYZEN 7 8845HS,64 GB,1 TB SSD,"151,290 MKD.","129,990 MKD."
+Gjirafa50,"?????? MSI Katana 17 B12VEK-1034XPL, 17"", Intel Core i5-12450H, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 4050",Msi,INTEL CORE I5 12450H,16 GB,512 GB SSD,"68,959 MKD.","53,990 MKD."
+Gjirafa50,"?????? Lenovo Legion 5 16IRX9, 16"", Intel Core i5-13450HX, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 4060",Lenovo,INTEL CORE I5 13450HX,16 GB,512 GB SSD,"92,609 MKD.","81,990 MKD."
+Gjirafa50,"?????? Lenovo Legion 5 16IRX9, 16"", Intel Core i7-13650HX, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 4060",Lenovo,INTEL CORE I7 13650HX,16 GB,512 GB SSD,"94,809 MKD.","80,990 MKD."
+Gjirafa50,"?????? Lenovo Legion Pro 5 16IRX9, 16"", Intel Core i5-14500HX, 32GB RAM, 1TB SSD, NVIDIA GeForce RTX 4060",Lenovo,INTEL CORE I5 14500HX,32 GB,1 TB SSD,"107,190 MKD.","86,990 MKD."
+Gjirafa50,"?????? Lenovo Legion Pro 5 16IRX9, 16"", Intel Core i5-14500HX, 32GB RAM, 1TB SSD, NVIDIA GeForce RTX 4060",Lenovo,INTEL CORE I5 14500HX,32 GB,1 TB SSD,"119,690 MKD.","98,990 MKD."
+Gjirafa50,"?????? Lenovo Legion Slim 5 16AHP9, 16"", AMD Ryzen 7 8845HS, 32GB RAM, 1TB SSD, NVIDIA GeForce RTX 4060",Hp,AMD RYZEN 7 8845HS,32 GB,1 TB SSD,"102,090 MKD.","83,990 MKD."
+Gjirafa50,"?????? Lenovo Legion Slim 5 16AHP9, 16"", AMD Ryzen 7 8845HS, 32GB RAM, 1TB SSD, NVIDIA GeForce RTX 4070",Hp,AMD RYZEN 7 8845HS,32 GB,1 TB SSD,"129,239 MKD.","119,990 MKD."
+Gjirafa50,"?????? Lenovo Legion Slim 5 16ARP9, 16"", AMD Ryzen 7 7435HS, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 4060",Lenovo,AMD RYZEN 7 7435HS,16 GB,512 GB SSD,"94,479 MKD.","76,990 MKD."
+Gjirafa50,"Laptop Lenovo LOQ 15ARP9, 15.6"", AMD Ryzen 5 7235HS, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 3050",Lenovo,AMD RYZEN 5 7235HS,16 GB,512 GB SSD,"54,958 MKD.","38,990 MKD."
+Gjirafa50,"?????? Lenovo TB 16P G4, 16"", Intel Core i7-14650HX, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 4060",Lenovo,INTEL CORE I7 14650HX,16 GB,512 GB SSD,"155,890 MKD.","139,990 MKD."
+Gjirafa50,"?????? Dell Precision 5690, 16"", Intel Core Ultra 7 165H, 16GB RAM, 1TB SSD, NVIDIA GeForce RTX 1000 Ada",Dell,INTEL CORE ULTRA 7 165H,16 GB,1 TB SSD,"226,684 MKD.","199,990 MKD."
+Gjirafa50,"?????? Lenovo LOQ Intel Core 5-12450HX, 15.6"", CPU, 24GB RAM, 1TB SSD, Nvidia RTX4060 8GB",Lenovo,CORE 5,24 GB,1 TB SSD,"85,239 MKD.","68,990 MKD."
+Gjirafa50,"Laptop Gigabyte G6 KF, 16"", Intel Core i7-13620H, 16GB RAM, 1TB SSD, Nvidia GeForce RTX 4060",Gigabyte,INTEL CORE I7 13620H,16 GB,1 TB SSD,"69,619 MKD.","53,990 MKD."
+Gjirafa50,"?????? MSI Thin 15 B12UCX-1818XPL, 15"", Intel Core i5-12450H, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 2050, ????? ???? ????",Msi,INTEL CORE I5 12450H,16 GB,512 GB SSD,"48,490 MKD.","36,990 MKD."
+Gjirafa50,"?????? Lenovo IdeaPad Gaming, 15.6"", AMD Ryzen 5 5500H, 16 GB RAM, 512 GB SSD, NVIDIA GeForce RTX 2050, ???",Lenovo,AMD RYZEN 5 5500H,16 GB,512 GB SSD,"49,690 MKD.",
+Gjirafa50,"?????? Lenovo LOQ Intel, 15.6"", Intel i5-12450HX, 16 GB RAM, 1 TB SSD, NVIDIA GeForce RTX 4050, ???",Lenovo,INTEL I5 12450HX,16 GB,1 TB SSD,"62,990 MKD.","60,590 MKD."
+Gjirafa50,"?????? Lenovo LOQ Intel, 15.6"", Intel i5-12450HX, 16 GB RAM, 512 GB SSD, NVIDIA GeForce RTX 4050, ???",Lenovo,INTEL I5 12450HX,16 GB,512 GB SSD,"75,339 MKD.","68,790 MKD."
+Gjirafa50,"?????? Lenovo LOQ Intel, 15.6"", Intel i5-12450HX, 16 GB RAM, 512 GB SSD, NVIDIA GeForce RTX 4050, ???",Lenovo,INTEL I5 12450HX,16 GB,512 GB SSD,"58,090 MKD.",
+Gjirafa50,"?????? Lenovo Yoga Pro, 16"", Intel 155H, 16 GB RAM, 512 GB SSD, NVIDIA GeForce RTX 4060, ???",Lenovo,INTEL 1,16 GB,512 GB SSD,"115,159 MKD.","111,690 MKD."
+Gjirafa50,"?????? MSI Thin 15, 15.6"", Intel i5-12450H, 16 GB RAM, 512 GB SSD, NVIDIA GeForce RTX 3050, ???",Msi,INTEL I5 12450H,16 GB,512 GB SSD,"49,790 MKD.","48,690 MKD."
+Gjirafa50,"?????? Lenovo LOQ Intel, 15.6"", Intel i5-12450HX, 16 GB RAM, 1 TB SSD, NVIDIA GeForce RTX 4060, ???",Lenovo,INTEL I5 12450HX,16 GB,1 TB SSD,"79,849 MKD.","76,690 MKD."
+Gjirafa50,No title,No,Unknown,,,No price,
+Neptun,No title,No,Unknown,,,No price,
+Neptun,LENOVO IdeaPad 1 15IJL7 N4500/8GB/512GB,Lenovo,Unknown,8 GB,512 GB SSD,14.999 ???.,
+Neptun,??????  ASUS Vivobook 15 X1502ZA-BQ312 i3-1215U/8GB/256GB,Asus,I3 1215U,8 GB,256 GB SSD,27.999 ???.,17.999 ???.
+Neptun,?????? ASUS Vivobook 15 X1504VA-BQ322 i3-1315U/8GB/512GB,Asus,I3 1315U,8 GB,512 GB SSD,27.999 ???.,19.499 ???.
+Neptun,LENOVO IdeaPad 1 15AMN7 R3-7320U/16GB DDR5/512GB,Lenovo,R3 7320U,16 GB,512 GB SSD,20.999 ???.,19.599 ???.
+Neptun,HP 250 G10 i3-1315U/8GB/512GB AK9P6AT,Hp,I3 1315U,8 GB,512 GB SSD,19.999 ???.,
+Neptun,?????? ASUS Vivobook 15 X1504VA-NJ732 i3-1315U/8GB/512GB,Asus,I3 1315U,8 GB,512 GB SSD,26.999 ???.,19.999 ???.
+Neptun,?????? ASUS Vivobook Go 15 E1504FA-NJ1017 R3-7320U/16GB DDR5/512GB,Asus,R3 7320U,16 GB,512 GB SSD,21.999 ???.,20.799 ???.
+Neptun,?????? ASUS Vivobook Go 15 E1504FA-BQ511 R5-7520U/8GB DDR5/512GB,Asus,R5 7520U,8 GB,512 GB SSD,27.999 ???.,20.999 ???.
+Neptun,?????? ASUS Vivobook Go 15 E1504FA-NJ330W R3-7320U/8GB DDR5/512GB/WIN11,Asus,R3 7320U,8 GB,512 GB SSD,26.999 ???.,21.999 ???.
+Neptun,"DELL Vostro 3530 15.6"" 120Hz/i3-1305U/16GB/512GB",Dell,I3 1305U,16 GB,512 GB SSD,22.499 ???.,
+Neptun,LENOVO IdeaPad 1 15ALC7 R5-5625U/16GB/512GB,Lenovo,R5 5625U,16 GB,512 GB SSD,22.999 ???.,
+Neptun,ASUS Vivobook Go 15 E1504FA-NJ1534 R3-7320U/16GB DDR5/512GB,Asus,R3 7320U,16 GB,512 GB SSD,23.999 ???.,22.999 ???.
+Neptun,?????? ASUS Vivobook 15 X1504VA-NJ799 i3-1315U/16GB/512GB,Asus,I3 1315U,16 GB,512 GB SSD,23.999 ???.,22.999 ???.
+Neptun,ASUS Vivobook 15 X1504VA-NJ1144 i3-1315U/16GB/512GB,Asus,I3 1315U,16 GB,512 GB SSD,24.999 ???.,22.999 ???.
+Neptun,?????? ACER Extensa 15 EX215-23-R6VX R5-7520U/16GB DDR5/512GB,Acer,R5 7520U,16 GB,512 GB SSD,25.999 ???.,23.899 ???.
+Neptun,?????? ACER Aspire 3 A315-44P-R8YE R5-5500U/16GB/512GB,Acer,R5 5500U,16 GB,512 GB SSD,23.999 ???.,
+Neptun,LENOVO IdeaPad 1 15AMN7 R5-7520U/16GB DDR5/512GB,Lenovo,R5 7520U,16 GB,512 GB SSD,23.999 ???.,
+Neptun,?????? ASUS Vivobook 15 X1504ZA-NJ864W i3-1215U/8GB/512GB/WIN11,Asus,I3 1215U,8 GB,512 GB SSD,25.999 ???.,23.999 ???.
+Neptun,?????? ASUS Vivobook Go 15 E1504FA-NJ318 R5-7520U/16GB DDR5/512GB,Asus,R5 7520U,16 GB,512 GB SSD,25.999 ???.,23.999 ???.
+Neptun,?????? LENOVO IdeaPad Slim 3 15ABR8 R5-7430U/16GB/512GB,Lenovo,R5 7430U,16 GB,512 GB SSD,24.999 ???.,
+Neptun,No title,No,Unknown,,,No price,
+Neptun,No title,No,Unknown,,,No price,
+Neptun,No title,No,Unknown,,,No price,
+Neptun,No title,No,Unknown,,,No price,
+Neptun,No title,No,Unknown,,,No price,
+Neptun,No title,No,Unknown,,,No price,
+Neptun,No title,No,Unknown,,,No price,
+Neptun,No title,No,Unknown,,,No price,
+Neptun,No title,No,Unknown,,,No price,
+Neptun,LENOVO IdeaPad Slim 3 15IAH8 i5-12450H/16GB DDR5/512GB,Lenovo,I5 12450H,16 GB,512 GB SSD,24.999 ???.,
+Neptun,LENOVO IdeaPad 1 15ALC7 R7-5700U/16GB/512GB,Lenovo,R7 5700U,16 GB,512 GB SSD,24.999 ???.,
+Neptun,LENOVO IdeaPad Slim 3 15ABR8 R7-5825U/16GB/512GB,Lenovo,R7 5825U,16 GB,512 GB SSD,27.999 ???.,24.999 ???.
+Neptun,?????? ASUS Vivobook 15 X1504VA-BQ512 i5-1335U/8GB/512GB,Asus,I5 1335U,8 GB,512 GB SSD,35.999 ???.,24.999 ???.
+Neptun,"DELL Vostro 3530 15.6"" 120Hz/i5-1334U/16GB/512GB",Dell,I5 1334U,16 GB,512 GB SSD,26.999 ???.,25.799 ???.
+Neptun,ASUS Vivobook Go 15 E1504FA-NJ1126 R5-7520U/16GB DDR5/1TB,Asus,R5 7520U,16 GB,1 TB SSD,28.999 ???.,25.799 ???.
+Neptun,?????? ASUS Vivobook Go 15 E1504FA-NJ312 R5-7520U/16GB DDR5/512GB,Asus,R5 7520U,16 GB,512 GB SSD,25.999 ???.,
+Neptun,"DELL Inspiron 3535 15.6"" 120Hz/R5-7530U/16GB/512GB",Dell,R5 7530U,16 GB,512 GB SSD,25.999 ???.,
+Neptun,LENOVO IdeaPad Slim 3 15IAH8 i5-12450H/16GB DDR5/512GB,Lenovo,I5 12450H,16 GB,512 GB SSD,25.999 ???.,
+Neptun,?????? Aspire 3 A315-44P-R87M R7-5700U/16GB/512GB,Aspire,R7 5700U,16 GB,512 GB SSD,29.999 ???.,25.999 ???.
+Neptun,LENOVO IdeaPad 1 15ALC7 R7-5700U/16GB/1TB,Lenovo,R7 5700U,16 GB,1 TB SSD,26.999 ???.,
+Neptun,ACER Extensa 15 EX215-55-56YF i5-1235U/16GB/512GB,Acer,I5 1235U,16 GB,512 GB SSD,27.999 ???.,26.999 ???.
+Neptun,?????? ASUS Vivobook 15 M1502YA-BQ112 R7-7730U/16GB/512GB,Asus,R7 7730U,16 GB,512 GB SSD,33.499 ???.,27.499 ???.
+Neptun,LENOVO IdeaPad Slim 3 15IAH8 i5-12450H/16GB DDR5/1TB,Lenovo,I5 12450H,16 GB,1 TB SSD,27.999 ???.,
+Neptun,LENOVO IdeaPad Slim 3 15IRH8 i5-13420H/16GB DDR5/512GB,Lenovo,I5 13420H,16 GB,512 GB SSD,28.999 ???.,27.999 ???.
+Neptun,LENOVO IdeaPad Slim 3 15ABR8 R7-7730U/16GB/512GB,Lenovo,R7 7730U,16 GB,512 GB SSD,30.799 ???.,27.999 ???.
+Neptun,ACER Aspire Lite 16 AL16-52P-50A8 16” FHD+/i5-1334U/16GB DDR5/512GB,Acer,I5 1334U,16 GB,512 GB SSD,28.999 ???.,
+Neptun,ACER Aspire Go 15 AG15-42P-R844 R7-5825U/20GB/512GB,Acer,R7 5825U,20 GB,512 GB SSD,28.999 ???.,
+Neptun,"?????? DELL Vostro 3530 15.6"" 120Hz/i5-1334U/16GB/512GB + BACKPACK DELL EcoLoop Essential 14-16",Dell,I5 1334U,16 GB,512 GB SSD,28.999 ???.,
+Neptun,LENOVO IdeaPad Slim 3 15IRH10 15.3” FHD+/i5-13420H/16GB DDR5/512GB,Lenovo,I5 13420H,16 GB,512 GB SSD,28.999 ???.,
+Neptun,No title,No,Unknown,,,No price,
+Neptun,No title,No,Unknown,,,No price,
+Neptun,No title,No,Unknown,,,No price,
+Neptun,No title,No,Unknown,,,No price,
+Neptun,No title,No,Unknown,,,No price,
+Neptun,No title,No,Unknown,,,No price,
+Neptun,No title,No,Unknown,,,No price,
+Neptun,No title,No,Unknown,,,No price,
+Neptun,No title,No,Unknown,,,No price,
+Neptun,ASUS Vivobook 15 X1504VA-BQ1696 i5-1334U/16GB/1TB,Asus,I5 1334U,16 GB,1 TB SSD,33.999 ???.,28.999 ???.
+Neptun,?????? ACER Aspire 5 A515-57-56D3 i5-12450H/16GB/512GB,Acer,I5 12450H,16 GB,512 GB SSD,36.999 ???.,29.499 ???.
+Neptun,?????? LENOVO IdeaPad Slim 3 15ABR8 R7-7730U/16GB/512GB,Lenovo,R7 7730U,16 GB,512 GB SSD,29.999 ???.,
+Neptun,?????? ASUS Vivobook 15 X1504VA-NJ924 i5-1335U/16GB/512GB,Asus,I5 1335U,16 GB,512 GB SSD,30.999 ???.,29.999 ???.
+Neptun,?????? LENOVO IdeaPad Slim 3 15IRU8 i5-1335U/16GB DDR5/512GB,Lenovo,I5 1335U,16 GB,512 GB SSD,36.999 ???.,29.999 ???.
+Neptun,??????  ASUS Vivobook 15 OLED X1505VA-OLED-L511 i5-1335U/8GB/512GB,Asus,I5 1335U,8 GB,512 GB SSD,40.999 ???.,29.999 ???.
+Neptun,"DELL Inspiron 3535 15.6"" 120Hz/R7-7730U/16GB/1TB",Dell,R7 7730U,16 GB,1 TB SSD,31.999 ???.,30.799 ???.
+Neptun,ASUS Vivobook 15 X1504VA-BQ1647 i5-1334U/16GB/512GB,Asus,I5 1334U,16 GB,512 GB SSD,30.999 ???.,
+Neptun,LENOVO IdeaPad 3 15IAU7 i7-1255U/16GB/512GB,Lenovo,I7 1255U,16 GB,512 GB SSD,30.999 ???.,
+Neptun,LENOVO IdeaPad Slim 3 15IRU9 Core 5 120U/16GB DDR5/512GB,Lenovo,CORE 5,16 GB,512 GB SSD,33.999 ???.,30.999 ???.
+Neptun,ACER Aspire Go 15 AG15-42P-R6WF R7-5825U/32GB/512GB,Acer,R7 5825U,32 GB,512 GB SSD,31.799 ???.,
+Neptun,LENOVO IdeaPad Slim 3 15ARP10 15.3 FHD+/R7-7735HS/16GB DDR5/512GB,Lenovo,R7 7735HS,16 GB,512 GB SSD,31.999 ???.,
+Neptun,"LENOVO IdeaPad Slim 5 16IRL8 16"" i5-13420H/16GB DDR5/512GB",Lenovo,I5 13420H,16 GB,512 GB SSD,31.999 ???.,
+Neptun,?????? LENOVO IdeaPad 3 15IAU7 i7-1255U/16GB/512GB,Lenovo,I7 1255U,16 GB,512 GB SSD,32.999 ???.,31.999 ???.
+Neptun,LENOVO IdeaPad Slim 3 15IRH10 15.3” FHD+/i7-13620H/16GB DDR5/512GB,Lenovo,I7 13620H,16 GB,512 GB SSD,33.999 ???.,31.999 ???.
+Neptun,"?????? ACER Swift 3 SF314-43-R3Q3 14"" R7-5700U/16GB/512GB",Acer,R7 5700U,16 GB,512 GB SSD,34.999 ???.,31.999 ???.
+Neptun,ACER Aspire 3 A315-44P-R346 R7-5700U/32GB/1TB,Acer,R7 5700U,32 GB,1 TB SSD,32.999 ???.,
+Neptun,?????? LENOVO IdeaPad Slim 3 15IRU8 i7-1355U/16GB DDR5/512GB,Lenovo,I7 1355U,16 GB,512 GB SSD,32.999 ???.,
+Neptun,LENOVO IdeaPad Slim 3 15IRH8 i7-13620H/16GB DDR5/512GB,Lenovo,I7 13620H,16 GB,512 GB SSD,34.999 ???.,32.999 ???.
+Neptun,ASUS Vivobook 15 X1504VA-BQ1358 i7-1355U/16GB/1TB,Asus,I7 1355U,16 GB,1 TB SSD,41.999 ???.,32.999 ???.
+Neptun,No title,No,Unknown,,,No price,
+Neptun,No title,No,Unknown,,,No price,
+Neptun,No title,No,Unknown,,,No price,
+Neptun,No title,No,Unknown,,,No price,
+Neptun,No title,No,Unknown,,,No price,
+Neptun,No title,No,Unknown,,,No price,
+Neptun,No title,No,Unknown,,,No price,
+Neptun,No title,No,Unknown,,,No price,
+Neptun,No title,No,Unknown,,,No price,
+Neptun,ACER Aspire 3 A315-59-7630 i7-1255U/16GB/512GB,Acer,I7 1255U,16 GB,512 GB SSD,34.999 ???.,33.799 ???.
+Neptun,?????? DELL Vostro 3520 i7-1255U/16GB/512GB,Dell,I7 1255U,16 GB,512 GB SSD,42.999 ???.,34.999 ???.
+Neptun,ACER Aspire 15 A15-41M-R2UZ R5-8640HS/16GB DDR5/1TB,Acer,R5 8640HS,16 GB,1 TB SSD,35.999 ???.,
+Neptun,LENOVO IdeaPad Slim 3 15IRH10 15.3” FHD+/i7-13620H/24GB DDR5/1TB,Lenovo,I7 13620H,24 GB,1 TB SSD,38.999 ???.,37.999 ???.
+Neptun,ASUS Vivobook 15 X1504VA-BQ1693W i5-1334U/16GB/1TB/WIN11,Asus,I5 1334U,16 GB,1 TB SSD,38.999 ???.,
+Neptun,"DELL Vostro 3530 15.6"" 120Hz/i7-1355U/16GB/512GB",Dell,I7 1355U,16 GB,512 GB SSD,38.999 ???.,
+Neptun,ACER Aspire 15 A15-51M-5917 Core 5 120U/16GB DDR5/1TB,Acer,CORE 5,16 GB,1 TB SSD,40.999 ???.,39.999 ???.
+Neptun,ACER Aspire 15 A15-41M-R5XN R7-8840HS/16GB DDR5/1TB,Acer,R7 8840HS,16 GB,1 TB SSD,40.999 ???.,
+Neptun,"?????? LENOVO IdeaPad Slim 5 14IMH9 14"" Ultra 5 125H/16GB DDR5X/512GB",Lenovo,ULTRA 5 125H,16 GB,512 GB SSD,40.999 ???.,
+Neptun,LENOVO IdeaPad Slim 3 15IRU9 Core 7 150U/16GB DDR5/512GB,Lenovo,CORE 7,16 GB,512 GB SSD,41.999 ???.,
+Neptun,ACER Aspire Go 15 AG15-51P-77U9 15.3” FHD+/i7-1355U/32GB DDR5/1TB,Acer,I7 1355U,32 GB,1 TB SSD,42.999 ???.,
+Neptun,"?????? ACER Swift Go 14 SFG14-42-R54G, R5-7640U/16GB/512GB",Acer,R5 7640U,16 GB,512 GB SSD,56.999 ???.,46.999 ???.
+Neptun,"?????? ACER Swift GO 14 SFG314-42-R1S7 14"" R5-7640U/16GB DDR5/512GB/WIN11",Acer,R5 7640U,16 GB,512 GB SSD,59.999 ???.,48.999 ???.
+Neptun,"?????? ACER Swift Go 14 SFG14-71-72JF 14"" i7-1355U/16GB DDR5/512GB/WIN11",Acer,I7 1355U,16 GB,512 GB SSD,64.999 ???.,51.999 ???.
+Neptun,"ASUS Zenbook 14 OLED UX3405MA-QD438 14"" Ultra 5 125H/16GB DDR5X/512GB",Asus,ULTRA 5 125H,16 GB,512 GB SSD,53.999 ???.,
+Neptun,"ASUS Vivobook S16 M5606KA-RI076 16"" 3K OLED 120Hz/R5-AI 340/16GB DDR5X/512GB",Asus,R5 AI 340,16 GB,512 GB SSD,54.999 ???.,53.999 ???.
+Neptun,Apple MacBook Air 13.6 M2/8C CPU/8C GPU/16GB/256GB Starlight mc7w4ze/a,Apple,M2,16 GB,256 GB SSD,73.799 ???.,56.799 ???.
+Neptun,Apple MacBook Air 13.6 M2/8C CPU/8C GPU/16GB/256GB Space Grey mc7u4ze/a,Apple,M2,16 GB,256 GB SSD,73.799 ???.,56.799 ???.
+Neptun,Apple MacBook Air 13.6 M2/8C CPU/8C GPU/16GB/256GB Midnight mc7x4ze/a,Apple,M2,16 GB,256 GB SSD,73.799 ???.,56.799 ???.
+Neptun,"LENOVO Yoga 7 2-in-1 14"" OLED Touch/Ultra 5 226V/16GB DDR5X/1TB/WIN11",Lenovo,ULTRA 5 226V,16 GB,1 TB SSD,59.999 ???.,
+Neptun,No title,No,Unknown,,,No price,
+Neptun,No title,No,Unknown,,,No price,
+Neptun,No title,No,Unknown,,,No price,
+Neptun,No title,No,Unknown,,,No price,
+Neptun,No title,No,Unknown,,,No price,
+Neptun,No title,No,Unknown,,,No price,
+Neptun,No title,No,Unknown,,,No price,
+Neptun,No title,No,Unknown,,,No price,
+Neptun,No title,No,Unknown,,,No price,
+Neptun,"ASUS Vivobook S 14 S5406SA-QD052W 14"" OLED/Ultra 5 226V/16GB DDR5X/512GB/WIN11",Asus,ULTRA 5 226V,16 GB,512 GB SSD,61.999 ???.,
+Neptun,"ASUS Zenbook 14 UX3405CA-QL279 14"" OLED Touch/Ultra 5 225H/16GB DDR5X/1TB",Asus,ULTRA 5 225H,16 GB,1 TB SSD,62.999 ???.,61.999 ???.
+Neptun,"LENOVO Yoga 7 2-in-1 14AKP10 14"" 2.8K OLED 120Hz Touch/R7-AI 350/32GB DDR5X/1TB/WIN11",Lenovo,R7 AI 350,32 GB,1 TB SSD,68.999 ???.,
+Neptun,"ASUS Zenbook 14 UM3406KA-PP059W 14"" 3K OLED 120Hz/R7-AI 350/16GB DDR5X/1TB/WIN11",Asus,M3,16 GB,1 TB SSD,70.999 ???.,68.999 ???.
+Neptun,"ASUS Vivobook S16 M5606KA-RI080W 16"" 3K OLED 120Hz/R7-AI 350/24GB DDR5X/1TB/WIN11",Asus,R7 AI 350,24 GB,1 TB SSD,69.999 ???.,
+Neptun,Apple MacBook Air 13.6 M3/8C CPU/8C GPU/16GB/256GB Midnight mc8k4ze/a,Apple,M3,16 GB,256 GB SSD,79.699 ???.,69.999 ???.
+Neptun,Apple MacBook Air 13.6 M3/8C CPU/8C GPU/16GB/256GB Space Grey mc8g4ze/a,Apple,M3,16 GB,256 GB SSD,79.699 ???.,69.999 ???.
+Neptun,"ASUS Zenbook 14 OLED UX3405MA-QD434W 14"" Ultra 7 155H/32GB DDR5X/1TB/WIN11",Asus,ULTRA 7 155H,32 GB,1 TB SSD,71.999 ???.,
+Neptun,?????? ASUS Vivobook S 15 OLED S5507QA-MA056W 3K 120Hz Snapdragon X Elite X1E-78-100/32GB DDR5X/1TB/WIN11,Asus,SNAPDRAGON X ELITE,32 GB,1 TB SSD,76.999 ???.,71.999 ???.
+Neptun,Apple MacBook Air 13.6 M4/10C CPU/8C GPU/16GB/256GB MIDNIGHT mw123ze/a,Apple,M4,16 GB,256 GB SSD,75.999 ???.,
+Neptun,Apple MacBook Air 13.6 M4/10C CPU/8C GPU/16GB/256GB SILVER mw0w3ze/a,Apple,M4,16 GB,256 GB SSD,75.999 ???.,
+Neptun,Apple MacBook Air 13.6 M4/10C CPU/8C GPU/16GB/256GB SKY BLUE mc6t4ze/a,Apple,M4,16 GB,256 GB SSD,75.999 ???.,
+Neptun,Apple MacBook Air 13.6 M4/10C CPU/8C GPU/16GB/256GB STARLIGHT mw0y3ze/a,Apple,M4,16 GB,256 GB SSD,75.999 ???.,
+Neptun,?????? MacBook Air 15.3 M2/8C CPU/10C GPU/8GB/256GB Midnight mqkw3ze/a,Macbook,M2,8 GB,256 GB SSD,97.499 ???.,78.999 ???.
+Neptun,?????? MacBook Air 15.3 M2/8C CPU/10C GPU/8GB/256GB Starlight mqku3ze/a,Macbook,M2,8 GB,256 GB SSD,97.499 ???.,78.999 ???.
+Neptun,?????? MacBook Air 15.3 M2/8C CPU/10C GPU/8GB/256GB Silver mqkr3ze/a,Macbook,M2,8 GB,256 GB SSD,97.499 ???.,78.999 ???.
+Neptun,?????? Apple MacBook Air 13.6 M3/8C CPU/10C GPU/8GB/512GB Silver mrxr3ze/a,Apple,M3,8 GB,512 GB SSD,93.399 ???.,79.899 ???.
+Neptun,?????? Apple MacBook Air 13.6 M3/8C CPU/10C GPU/8GB/512GB Midnight mrxw3ze/a,Apple,M3,8 GB,512 GB SSD,93.399 ???.,79.899 ???.
+Neptun,"?????? ASUS ProArt PZ13 OLED HT5306QA-LX002W 13.3"" 3K Touch/Snapdragon X Plus X1P-42-100/16GB DDR5X/1TB/WIN11",Asus,SNAPDRAGON X PLUS,16 GB,1 TB SSD,83.999 ???.,79.999 ???.
+Neptun,"?????? ACER Swift X 14 SFX14-71G-76KY 14.5"" OLED i7-13700H/32GB DDR5/1TB/RTX 4050 6GB",Acer,I7 13700H,32 GB,1 TB SSD,86.999 ???.,79.999 ???.
+Neptun,No title,No,Unknown,,,No price,
+Neptun,No title,No,Unknown,,,No price,
+Neptun,No title,No,Unknown,,,No price,
+Neptun,No title,No,Unknown,,,No price,
+Neptun,No title,No,Unknown,,,No price,
+Neptun,No title,No,Unknown,,,No price,
+Neptun,No title,No,Unknown,,,No price,
+Neptun,No title,No,Unknown,,,No price,
